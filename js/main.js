@@ -1,0 +1,1 @@
+console.log('Testing JavaScript execution. If this line is in the console then it works.');
